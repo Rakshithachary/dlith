@@ -1,0 +1,36 @@
+/* styles.css */
+a {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+header {
+    background-color: #007BFF;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    font-size: 24px;
+}
+
+section {
+    margin: 20px;
+}
+
+h2 {
+    color: #007BFF;
+}
+
+p {
+    line-height: 1.5;
+}
+
+/* External CSS */
+a {
+    color: #dc3545;
+}
+
+/* Inline CSS */
+#p {
+    font-weight: bold;
+    color: #28a745;
+}
